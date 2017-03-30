@@ -50,6 +50,13 @@
 | 卫星通信 | 	                |  			|1349 |
 
 
+## 香港的规则
+`https://www.numberingplans.com/?page=plans&sub=phonenr&alpha_2_input=HK&current_page=1`
+## 澳门的规则
+`https://www.numberingplans.com/?page=plans&sub=phonenr&alpha_2_input=MO&current_page=2`
+## 台湾的规则
+`https://www.numberingplans.com/?page=plans&sub=phonenr&alpha_2_input=TW&current_page=2`
+
 # Zone 全球国家代码库
 
 ## 示例
