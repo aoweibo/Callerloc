@@ -26,6 +26,37 @@
 中国大陆手机号正则
 ```
 ^((13[0-9])|(14[5,7])|(15[^4,\\D])|(17[6-8])|(18[0-9]))\\d{8}$
+^861[3,4,5,7,8][0-9]{9}$
+```
+
+中国香港手机号正则
+```
+^[5,6,9]\\d{7}$
+^852[5,6,9]\\d{7}$
+```
+
+中国台湾手机号正则
+```
+^9\\d{8}$
+^8869\\d{8}$
+```
+
+中国澳门手机号正则
+```
+^6\\d{7}$
+^8536\\d{7}$
+```
+
+马来西亚手机号正则
+```
+^11?\\d{8}$
+^6011?\\d{8}$
+```
+
+斯里兰卡手机号正则
+```
+^7\\d{8}$
+^947\\d{8}$
 ```
 
 ## 示例
@@ -49,6 +80,13 @@
 |          | 虚拟运营商专属号段	| 86 		|1700,1701,1702 |
 | 卫星通信 | 	                |  			|1349 |
 
+
+## 香港的规则
+`https://www.numberingplans.com/?page=plans&sub=phonenr&alpha_2_input=HK&current_page=1`
+## 澳门的规则
+`https://www.numberingplans.com/?page=plans&sub=phonenr&alpha_2_input=MO&current_page=2`
+## 台湾的规则
+`https://www.numberingplans.com/?page=plans&sub=phonenr&alpha_2_input=TW&current_page=2`
 
 # Zone 全球国家代码库
 
